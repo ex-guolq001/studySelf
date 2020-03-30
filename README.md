@@ -1,2 +1,3 @@
 # studySelf
-for study
+hi humans!
+i like node.js
